@@ -1,4 +1,4 @@
-## References
+## Sources
 
 1. Vonage. "What Is Sentiment Analysis? A Comprehensive Guide for 2025."  
 https://www.vonage.com/resources/articles/what-is-sentiment-analysis/  
